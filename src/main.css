@@ -3,6 +3,8 @@ body {
 }
 .wrapper {
   padding: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 .gallery {
   display: flex;
