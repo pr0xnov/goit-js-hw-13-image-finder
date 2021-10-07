@@ -77,7 +77,7 @@ function onSmoothScroll() {
 export function throwErrorInvalid() {
     refs.mainInput.disabled = true;
             error({
-             text: "Please enter valid query!",
+             text: "Pictures not found!",
              stack: myStack
             });
     refs.mainInput.disabled = false;
